@@ -88,5 +88,6 @@ p {
   .paper{
    width: 388px;
    transform: rotateZ(0deg);
+   font-family: 'Mina', sans-serif;
   }
 }
